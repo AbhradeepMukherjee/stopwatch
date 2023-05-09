@@ -1,0 +1,43 @@
+.heading {
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.stop-btn{
+    background-color: #667616;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 25px;
+    height: 60px;
+    width: 100px;
+    text-align: center;
+}
+.start-btn {
+    background-color: #82b74b;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 25px;
+    height: 60px;
+    width: 100px;
+    text-align: center;
+}
+.btn {
+    margin: 20px auto;
+    cursor: pointer;
+}
+.reset-btn {
+    background-color: #f10606;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 25px;
+    height: 60px;
+    width: 100px;
+}
+
+.hours, .minutes, .seconds {
+    height: 130px;
+    width: 200px;
+    font-size: 100px;
+    margin: 30px 10px;
+    border: 5px solid black;
+}
